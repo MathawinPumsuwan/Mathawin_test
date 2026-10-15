@@ -1,3 +1,3 @@
 # Mathawin_test
 
-This is Git for team session.
+This is Git for team session in cs100.
